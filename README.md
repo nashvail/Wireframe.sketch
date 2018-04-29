@@ -1,6 +1,6 @@
 ![Wireframe.Sketch](https://www.dropbox.com/s/wci9662ccvvrxpe/Wireframesketchheader-01.png?raw=1)
 
-Wireframe.sketch is a simple wireframing library for sketch.
+Wireframe.sketch is a simple wireframing library for [Sketch](https://www.sketchapp.com/).
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/nashvail.svg?style=social)](https://twitter.com/nashvail)
 
